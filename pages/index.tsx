@@ -8,7 +8,7 @@ const Index = () => (
 				We grow a lot of rice.
 			</h2>
 
-			<h1>PWA APP FOR TESTING ONLY</h1>
+			<h1>PWA APP FOR TESTING ONLY ________</h1>
 		</Section>
 	</Page>
 )
